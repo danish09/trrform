@@ -1,9 +1,6 @@
 #ignoring .terraform directory
 .terraform/
 
-#ignoring variables
-*.tfvars
-
 #ignoring tfstate files
 # Compiled files
 *.tfstate
